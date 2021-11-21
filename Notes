@@ -1,0 +1,2 @@
+- explicit: when constructors declared explicit, it prevent them from being used to 
+perform implicit teype conversions.
